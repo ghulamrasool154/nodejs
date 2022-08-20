@@ -1,0 +1,17 @@
+{
+  "name": "challeng-01",
+  "version": "1.0.0",
+  "description": "challenge no  1 with only nodejs not using mongodb and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "js"
+  ],
+  "author": "GhulamRasool",
+  "license": "ISC"
+}
